@@ -34,6 +34,8 @@
 </li>
 <li><p>人不能两次踏进同一条河流</p>
 </li>
+<li><p>社会生活的本质：实践</p>
+</li>
 </ul>
 ]]></content>
       <categories>
@@ -61,12 +63,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/05/04/test/</url>
-    <content><![CDATA[<p>这是一个测试，为了检测中文字数统计部件能否正常工作</p>
 ]]></content>
   </entry>
 </search>
