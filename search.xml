@@ -15,6 +15,26 @@
 <h2 id="马克思主义哲学"><a href="#马克思主义哲学" class="headerlink" title="马克思主义哲学"></a>马克思主义哲学</h2><ul>
 <li>马克思两大贡献：创立了唯物史观、将唯物主义和辩证法结合起来形成了辩证唯物主义</li>
 </ul>
+<h3 id="唯物论"><a href="#唯物论" class="headerlink" title="唯物论"></a>唯物论</h3><ul>
+<li><p>运动和变化等同</p>
+</li>
+<li><p>物质的存在方式</p>
+</li>
+<li><p>运动的存在方式：时空</p>
+</li>
+<li><p>物质的根本属性：运动</p>
+</li>
+<li><p>物质的唯一特性：客观实在</p>
+</li>
+<li><p>概念之间的关系：</p>
+<ul>
+<li>不可分割：词性不同</li>
+<li>对立统一：词性相同</li>
+</ul>
+</li>
+<li><p>人不能两次踏进同一条河流</p>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>一研为定</category>
@@ -41,6 +61,12 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2020/05/04/test/</url>
+    <content><![CDATA[<p>这是一个测试，为了检测中文字数统计部件能否正常工作</p>
 ]]></content>
   </entry>
 </search>
